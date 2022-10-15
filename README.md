@@ -1,11 +1,11 @@
 # 😱 OpenCV Face Recognition For Colab 😱
 This repo is meant for those who prefer to use Google Colab for programming and AI development. Follow the instruction below to get up and running.
 
-**Step 1:** Create a new Colab file and run the command in the first cell:
+**Step 1:** Create a new Colab file and Copy + Paste the command below in the first cell (Don't forget to run it using Shift + Enter):
 
 ```!git clone https://github.com/virajdas/ColabFaceRecognition-OpenCV/```
 
-**Step 2:** Click Shift + Enter and then in the next cell copy and paste the following:
+**Step 2:** In the next cell Copy + Paste the following and click Shift + Enter:
 
 ```
 import cv2
@@ -24,7 +24,7 @@ for (x, y, w, h) in faces:
 plt.imshow(img)
 ```
 
-Run it just to test. If you see a picture of Dwayne Johnson with the AI detecting his face you may move on.
+If you see a picture of Dwayne Johnson with the AI detecting his face you may move on.
 
 **Step 3:** Remove the existing *me.jpg* file within the *ColabFaceRecognition-OpenCV* folder and take a picture of yourself or another person, name it: *me.jpg*, and upload it under the same folder as the old *me.jpg*.
 
