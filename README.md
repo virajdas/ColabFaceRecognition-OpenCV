@@ -5,7 +5,7 @@ This repo is meant for those who prefer to use Google Colab for programming and 
 
 ```!git clone https://github.com/virajdas/ColabFaceRecognition-OpenCV/```
 
-**Step 2 - Getting Code:** Double click on the *OpenCVFaceRecognition.ipynb* file and when the popup open on the right side of the screen, Copy + Paste the code into a new code cell and remove the first 2 lines that read:
+**Step 2 - Getting Code:** Double click on the *OpenCVFaceRecognition.ipynb* file and when the popup open on the right side of the screen, Copy + Paste the code into a new code cell and *remove* the first 2 lines that read:
 ```
 Code cell <0ic-jasPVq4d>
 #%% [code]
