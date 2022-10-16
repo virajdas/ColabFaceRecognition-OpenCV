@@ -1,6 +1,8 @@
 # 😱 OpenCV Face Recognition For Colab 😱
 This repo is meant for those who prefer to use Google Colab for programming and AI development. Follow the instruction below to get up and running.
 
+Just a heads up, if you find the following instructions confusing, you may want to check out my YouTube tutorial on the topic at: https://youtube.com/shorts/0nmR1mG7iu4.
+
 **Step 1 - Getting Files:** Create a new Colab file and Copy + Paste the command below in the first cell (Don't forget to run it using Shift + Enter):
 
 ```!git clone https://github.com/virajdas/ColabFaceRecognition-OpenCV/```
